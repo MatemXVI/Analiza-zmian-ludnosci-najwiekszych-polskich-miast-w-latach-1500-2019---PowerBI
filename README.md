@@ -28,4 +28,3 @@ Modelem jest jedna tabela **Dane** która jest połączonym zbiorem trzech tabel
 ## Zawartość repozytorium
 * `miasta.pbix` – pełny plik projektu Power BI.
 * `miasta.pdf` – kompletny raport ze wszystkimi stronami analizy.
-* `img` – folder ze zdjęciami raportu i modelu

@@ -2,7 +2,7 @@
 
 ## Opis projektu
 Głównym celem było określenie zmian ludności występujący w trzech największych obecnie polskich miastach: Krakowie, Wrocławiu i Warszawie w latach 1500-2019. Do tego celu użyto danych o ludności pobranych bezpośrednio z Wikipedii
-a następnie wykonano na nich w Power Query operację ETL.
+a następnie wykonano na nich w Power Query operacje ETL.
 ## Model Danych
 Modelem jest jedna tabela **Dane** która jest połączonym zbiorem trzech tabel z informacjami o ludności dla każdego z miast.
 
@@ -21,9 +21,9 @@ Modelem jest jedna tabela **Dane** która jest połączonym zbiorem trzech tabel
 
 ## Wykorzystane funkcje DAX:
 
-* Analiza dynamiki: Wykorzystanie funkcji CALCULATE do wyznaczania historycznych punktów kontrolnych (np. ludność Warszawy w 1939 r.).
-* Storytelling: Stworzenie dynamicznych miar tekstowych, które dostosowują tytuły i opisy kart do wybranego miasta.
-* Miary porównawcze: Obliczanie procentowych spadków i wzrostów (np. bilans strat wojennych)."
+* **Analiza dynamiki:** Wykorzystanie funkcji CALCULATE do wyznaczania historycznych punktów kontrolnych (np. ludność Warszawy w 1939 r.).
+* **Storytelling:** Stworzenie dynamicznych miar tekstowych, które dostosowują tytuły i opisy kart do wybranego miasta.
+* **Miary porównawcze:** Obliczanie procentowych spadków i wzrostów (np. bilans strat wojennych)."
 
 ## Zawartość repozytorium
 * `miasta.pbix` – pełny plik projektu Power BI.
